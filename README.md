@@ -1,9 +1,9 @@
 # RangerVCbot
 <h1 align="center">
-<b>LUCY MUSIC</b>
+<b>RANGER MUSIC</b>
 </h1>
 <p align="center">
-  <img src="" alt="The-RANGER BOT">
+  <img src="" alt="The-RANGER VC BOT">
 
 
 
