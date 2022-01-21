@@ -58,12 +58,4 @@
 - [MongoDB](https://cloud.mongodb.com/)
 
 
-### ꜱᴜᴘᴘᴏʀᴛ ᴀɴᴅ ᴜᴘᴅᴀᴛᴇꜱ🎑
-<a href="https://t.me/The_RangerBot"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/The_RangerBot"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
- 
 
-
-
-
-
-# Generate String session from [Here](https://repl.it/@subinps/getStringName)
