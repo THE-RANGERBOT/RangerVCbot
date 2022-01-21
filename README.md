@@ -7,13 +7,6 @@
 
 
 
-<h3>ʀᴇQᴜɪʀᴇᴍᴇɴᴛꜱ 📝</h3>
-
-- FFmpeg
-- NodeJS [nodesource.com](https://nodesource.com/)
-- Python 3.8+ or 3.7
-- [PyTgCalls](https://github.com/pytgcalls/pytgcalls)
-- [MongoDB](https://cloud.mongodb.com/)
 
 🧪 ɢᴇᴛ STRING_SESSION ꜰʀᴏᴍ ʜᴇʀᴇ:
 
@@ -25,6 +18,11 @@
 # Deploy on HEROKU
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/THE-RANGERBOT/RangerVCbot.git)  
 
+  
+
+### ꜱᴜᴘᴘᴏʀᴛ ᴀɴᴅ ᴜᴘᴅᴀᴛᴇꜱ🎑
+<a href="https://t.me/The_RangerBot"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/The_RangerBot"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+ 
 ## ᴄᴏᴍᴍᴀɴᴅꜱ 
 
 [CLICK HERE](https://t.me/The_RangerBot)
@@ -51,13 +49,13 @@
 ## 🔎 ꜱᴜᴘᴘᴏʀᴛ ɪɴʟɪɴᴇ ꜱᴇᴀʀᴄʜ
 
 
+<h3>ʀᴇQᴜɪʀᴇᴍᴇɴᴛꜱ 📝</h3>
 
-
-### ꜱᴘᴇᴄɪᴀʟ ᴄʀᴇᴀᴅɪᴛꜱ 💖
-- Callsmusic
-- Yukki
-- PyroGram
--xyz ⚡
+- FFmpeg
+- NodeJS [nodesource.com](https://nodesource.com/)
+- Python 3.8+ or 3.7
+- [PyTgCalls](https://github.com/pytgcalls/pytgcalls)
+- [MongoDB](https://cloud.mongodb.com/)
 
 
 ### ꜱᴜᴘᴘᴏʀᴛ ᴀɴᴅ ᴜᴘᴅᴀᴛᴇꜱ🎑
