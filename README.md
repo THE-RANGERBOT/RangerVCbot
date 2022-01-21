@@ -17,12 +17,13 @@
 
 🧪 ɢᴇᴛ STRING_SESSION ꜰʀᴏᴍ ʜᴇʀᴇ:
 
-[@genStr_Bot](https://t.me/genStr_Bot)
+(https://repl.it/@subinps/getStringName)
 
 [![ɢᴇɴᴇʀᴀᴛᴇ ꜱᴇꜱꜱɪᴏɴ](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@BoooCreative/Session-Generater#main.py)
 ###   
 
-
+# Deploy on HEROKU
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/THE-RANGERBOT/RangerVCbot.git)  
 
 ## ᴄᴏᴍᴍᴀɴᴅꜱ 
 
@@ -63,13 +64,8 @@
 <a href="https://t.me/The_RangerBot"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/The_RangerBot"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
  
 
-# Deploy on your own Risk.
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/THE-RANGERBOT/RangerVCbot.git)  
-
-
-# Join [@The_RangerBot](https://t.me/@The_RangerBot) for updates and [@The_Rangerbot](https://t.me/@The_RangerBot) for help.
 
 
 # Generate String session from [Here](https://repl.it/@subinps/getStringName)
