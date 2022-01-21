@@ -3,7 +3,7 @@
 <b>LUCY MUSIC</b>
 </h1>
 <p align="center">
-  <img src="https://telegra.ph/file/59596f593dce576523df8.jpg" alt="The-PANTHERS BOT">
+  <img src="" alt="The-RANGER BOT">
 
 
 
@@ -26,7 +26,7 @@
 
 ## ᴄᴏᴍᴍᴀɴᴅꜱ 
 
-[CLICK HERE](https://t.me/LUCYHELP)
+[CLICK HERE](https://t.me/The_RangerBot)
 
 
 ## ꜰᴇᴀᴛᴜʀᴇꜱ ᴡɪᴛʜ ᴀɪ 🔥️
@@ -51,11 +51,6 @@
 
 
 
-## ᴅᴇᴘʟᴏʏ ᴏɴ ʀᴀɪʟᴡᴀʏ 🚄
-ꜰᴏʀ ᴅᴇᴘʟᴏʏ ᴏɴ ʀᴀɪʟᴡᴀʏ ᴍᴀᴋᴇ [Necessary Variables Here](https://github.com/THANOSUSER/LUCY-MUSIC/tree/Umm), ᴜ ʜᴀᴠᴇ ᴛᴏ ꜰɪʟʟ.
-
-[![ᴢᴀɪᴅ+ᴅᴇᴘʟᴏʏ+ᴏɴ+ʀᴀɪʟᴡᴀʏ](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/THANOSUSER/LUCY-MUSIC&envs=SESSION_NAME,BOT_TOKEN,ASS_ID,OWNER_ID,ZAID_SUPPORT,UPDATES_CHANNEL,API_ID,API_HASH,SUDO_USERS,DURATION_LIMIT,LOG_GROUP_ID,MONGO_DB_URI)
-
 
 ### ꜱᴘᴇᴄɪᴀʟ ᴄʀᴇᴀᴅɪᴛꜱ 💖
 - Callsmusic
@@ -65,13 +60,13 @@
 
 
 ### ꜱᴜᴘᴘᴏʀᴛ ᴀɴᴅ ᴜᴘᴅᴀᴛᴇꜱ🎑
-<a href="https://t.me/LUCYHELP"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/LUCYHELP"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/The_RangerBot"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/The_RangerBot"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
  
 
 # Deploy on your own Risk.
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/The-HellBot/VcBot)  
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/THE-RANGERBOT/RangerVCbot.git)  
 
 
 # Join [@The_RangerBot](https://t.me/@The_RangerBot) for updates and [@The_Rangerbot](https://t.me/@The_RangerBot) for help.
